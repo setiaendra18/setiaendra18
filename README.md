@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=setiaendra18&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=setiaendra18&theme=merco&show_icons=true)
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=setiaendra18)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=setiaendra18&theme=merco&show_icons=true)
 
 
