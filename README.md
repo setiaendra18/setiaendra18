@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=setiaendra18&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=setiaendra18&theme=blue-green)
