@@ -1,6 +1,6 @@
-### Hi there 👋 my name is endra , i'm fully work form home
+### Hi there 👋 my name is endra
 
-<!--
+
 **setiaendra18/setiaendra18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## 1. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=setiaendra18&theme=merko&show_icons=true)
