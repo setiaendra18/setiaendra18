@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm freelance web programming 
+I'm freelance web programming and Founder at ZKM.
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@ I'm freelance web programming
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=setiaendra18&icon=0&color=4)](https://visitcount.itsvg.in
